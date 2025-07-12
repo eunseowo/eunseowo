@@ -1,6 +1,7 @@
+![Image](https://github.com/user-attachments/assets/0bd5788e-ac21-4e41-a23e-28742c4022bb)
+
 ## Hi there 👋
 
-https://eunseowo.github.io/
 
 <!--
 **eunseowo/eunseowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
