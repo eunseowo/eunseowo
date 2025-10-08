@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/1ce24a82-8167-4998-a06f-9051ecfa73dd)
-
 ## Hi there 👋
 
 [eunseowo.github.io](https://eunseowo.github.io/)
